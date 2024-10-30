@@ -16,5 +16,5 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'turtle_follower = py_turtle_move.turtle_follower:main'
+            'turtle_follower = swarm_challenge.turtle_follower:main'
         ]})
